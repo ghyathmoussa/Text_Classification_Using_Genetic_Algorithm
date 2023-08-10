@@ -52,9 +52,7 @@ This dataset contains reviews of different products labeled as Positive and Nega
 
 ## Contributors
 
-Metin Usta - metin.usta01@hotmail.com
+Ghyath Moussa  - gheathmousa@gmail.com
 
 Muhannad Tuameh - muhannadtumah@gmail.com
-
-Project Link: [https://github.com/MetinUsta/Multiple-Choice-Distractor-Generator](https://github.com/MetinUsta/Multiple-Choice-Distractor-Generator)
 
